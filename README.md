@@ -50,7 +50,9 @@ I help brands grow through **strategic content, data-informed campaigns, and cus
 | Project | Stack | What It Does |
 |--------|-------|--------------|
 | [**Portfolio Site**](https://bryanlordeus.com) | React, CSS | Personal portfolio — filterable by Web Apps, Client Sites & Landing Pages |
-| [**Broward House**](https://browardhouse.org) | HTML/CSS/JS | Nonprofit site — 40% faster load time, 85 performance score |
+| [**Soul System Streaming**](https://github.com/blordeus/soul-system-streaming) | React, Tailwind CSS | Custom music player for an upcoming instrumental album — responsive across desktop, tablet & mobile |
+| [**CreativeFlow Notes**](https://github.com/blordeus/creativeflow-app) | HTML/CSS/JS, Python, FastAPI | Full-stack note-taking app built for creative entrepreneurs |
+| [**Character Counter**](https://github.com/blordeus/character-counter-app) | React, Tailwind CSS | Frontend Mentor challenge — counts characters, words & sentences with letter density graph and theme switcher |
 
 ---
 
