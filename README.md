@@ -54,17 +54,6 @@ I help brands grow through **strategic content, data-informed campaigns, and cus
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blordeus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blordeus&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Currently
 
